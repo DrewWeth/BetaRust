@@ -16,7 +16,7 @@
 title: BetaRust
 email: dgwetherington@gmail.com
 description: > "Welcome"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "http://betarust.com" # the subpath of your site, e.g. /blog
 url: "http://betarust.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
